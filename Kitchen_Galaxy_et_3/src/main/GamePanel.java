@@ -238,7 +238,7 @@ public class GamePanel extends JPanel implements Runnable{
                 aSetter.makeSalmon();
             }
 
-            if(player.score >=250){
+            if(player.score >= 250){
                 aSetter.spawnShip();
             }
             //400
