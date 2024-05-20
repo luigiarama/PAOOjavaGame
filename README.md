@@ -3,4 +3,4 @@
 3. Kitchen_Galaxy_et2.2 ------> Versiune completa a nivelului 1, adaugarea tuturor obiectelor necesare, in aceasta etapa nu avem inca facuta trecerea dintre nivele, dar este disponibila harta nivelului 2 in pachetul maps. S-a efectuat incarcarea inaintea unui capitol important pentru a salva progresul facut pana aici
 4. Kitchen_Galaxy_et2.3 ------> Versiune cu lagg, neoptimizata, dar urmeaza schimbari majore
 5. Kitchen_Galaxy_et2.4 ------> Versiunea Beta cu toate elementele necesare 3 nivele complete
-6. Kitchen_Galaxy_et_3  ------> Game released, in urma feedback-ului beta-testerilor mei, multumiri lui Rosca, Cozma, Vali, George, Titi, Codrina, Cristi care au contribuit/ajutat la realizarea proiectului final.
+6. Kitchen_Galaxy_et_3  ------> Game released, in urma feedback-ului beta-testerilor mei, multumiri lui Rosca, Cozma, Vali, George, Titi, Codrina si Cristi care au contribuit/ajutat la realizarea proiectului final.
